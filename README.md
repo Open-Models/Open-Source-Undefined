@@ -14,6 +14,13 @@ education tool to strengthen its mastery and improve approaches to digital techn
 
 **Need to build a structure for the knowledge base by figuring out meaningful and generic knowledge to grasp the notion.**
 
+## Resources
+
+Resources are collected to feed and think this knowledge base, which may be useful to dive further in the topic, to
+prepare references and bibliographies. Thanks for the sharing or production of meaningful resources for this project.
+
+Check out the [resource library](resources/README.md) to retrieve and store external resources.
+
 ## Community
 
 The democratisation of open source makes it a subject of growing interest for various people and organisations, with collaboration
