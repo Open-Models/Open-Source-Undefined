@@ -2,7 +2,7 @@
 
 **_What is « open source »? Hard to know._**
 
-**Project proposal:** https://github.com/Open-Models/Brique/discussions/442
+**Project proposal:** [https://github.com/Open-Models/Brique/discussions/442](https://github.com/Open-Models/Brique/discussions/442)
 
 Knowledge base to explore the concept of « open source » and attempt to understand its meaning with the digital revolution.
 An open science tool for research to gather knowledge on this notion to promote debate on its unclear meaning, an open
