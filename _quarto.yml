@@ -1,0 +1,32 @@
+project:
+  type: website
+  render:
+    - "*.md"
+    - README.md
+    - resources/README.md
+    - content/README.md
+
+website:
+  title: "Open Source Undefined"
+  navbar:
+    left:
+      - href: README.md
+        text: Home
+  sidebar:
+    style: "docked"
+    contents:
+      - text: "Content"
+        href: content/README.md
+      - section: "Resources"
+        href: resources/README.md
+        contents:
+          - resources/open-source-reflections.md
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
