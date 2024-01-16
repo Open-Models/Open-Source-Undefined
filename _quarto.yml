@@ -12,6 +12,10 @@ website:
     left:
       - href: README.md
         text: Home
+    tools:
+      - icon: github
+        href: https://github.com/Open-Models/Open-Source-Undefined
+
   sidebar:
     style: "docked"
     contents:
