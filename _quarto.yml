@@ -12,9 +12,16 @@ website:
     left:
       - href: README.md
         text: Home
+
     tools:
       - icon: github
         href: https://github.com/Open-Models/Open-Source-Undefined
+      - icon: book
+        href: https://www.zotero.org/groups/5352918/open_source_undefined/library
+      - icon: chat-right-dots
+        href: https://github.com/Open-Models/Open-Source-Undefined/discussions
+      - icon: cc-circle
+        href: https://creativecommons.org/publicdomain/zero/1.0/
 
   sidebar:
     style: "docked"
