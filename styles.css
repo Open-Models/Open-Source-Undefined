@@ -1,1 +1,7 @@
 /* Style for website powered by Quarto */
+
+@media (max-width: 480px) {
+    div.navbar-brand-container {
+        max-width: 80%;
+    }
+}
