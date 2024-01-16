@@ -1,5 +1,7 @@
 /* Style for website powered by Quarto */
 
+
+/* Avoid ellipsis for the long "Open Source Undefined" brand title on mobile */
 @media (max-width: 480px) {
     div.navbar-brand-container {
         max-width: 80%;
