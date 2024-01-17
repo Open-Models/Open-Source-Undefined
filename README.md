@@ -1,6 +1,6 @@
 # Open Source Undefined: Overview of the Digital Bazaar
 
-**_What is « open source »? Hard to know._**
+**_What is « open source »? A meaning in debate._**
 
 **Project proposal:** [https://github.com/Open-Models/Brique/discussions/442](https://github.com/Open-Models/Brique/discussions/442)
 
