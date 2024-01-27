@@ -7,17 +7,20 @@
 => Multi public! Meaningful for non IT folks
 
 Primary:
+
 - Sharing and collaboration around software over the history, « open source » from computers origin
 - Formalization of sharing (free software) + theorization of collaboration methodologies (cathedral and bazaar)
 - Evolution of open source acceptance + Current state of open source (word confusion?)
 
 Secondary:
+
 - Culture on computers/software/internet history
 - Open models development steps: 1/ Sharing, collaboration, cultural maturation
 - Growing discovery of collaboration benefit
 - Evolution of business/economical acceptance and relation, evolution of software industry
 
 Extra:
+
 - Microsoft historical relation to openness movement
 
 Activable knowledge:
@@ -51,6 +54,7 @@ Activable knowledge:
 - US Copyright Act 1976, default protection of intellectual property
 
 Cultural difference with traditional sharing practice, sharing formalisation against copyright (hacker culture)
+
 - (1976) Copyleft first use by Li-Chen Wang
 - (1983) Stallman, free software movement and GNU project + GPL license: Use of copyright to enable sharing (sharing
   decline)
