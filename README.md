@@ -10,9 +10,11 @@ education tool to strengthen its mastery and improve approaches to digital techn
 
 ## Content
 
-[Still empty, project just initiated; see proposal for more info on potential content and project orientation]
+[Project just initiated; see proposal for more info on potential content and project orientation]
 
 **Need to build a structure for the knowledge base by figuring out meaningful and generic knowledge to grasp the notion.**
+
+- [History of « Open Source »](content/history.md)
 
 ## Resources
 
