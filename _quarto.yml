@@ -26,8 +26,10 @@ website:
   sidebar:
     style: "docked"
     contents:
-      - text: "Content"
+      - section: "Content"
         href: content/README.md
+        contents:
+          - content/history.md
       - section: "Resources"
         href: resources/README.md
         contents:
