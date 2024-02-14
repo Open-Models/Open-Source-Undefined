@@ -7,3 +7,8 @@
         max-width: 80%;
     }
 }
+
+/* Center videos */
+div.quarto-video {
+    text-align: center;
+}
