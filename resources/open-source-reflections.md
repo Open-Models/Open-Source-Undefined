@@ -32,7 +32,6 @@ A questioning of meaning that has lasted forever?
 
 ### The rest of the Internet
 
-- Coding Horror, [Defining Open Source](https://blog.codinghorror.com/defining-open-source/), Jeff Atwood
 - [So what is Open Source really?](https://www.suse.com/c/so-what-is-open-source-really/),  Andrew Steggles
 - [From open source to open government: A critique of open politics](https://ephemerajournal.org/contribution/open-source-open-government-critique-open-politics-0)
 - [Critic of the Open Source Initiative](https://collectivesource.org/the-open-source-initiative) by Collective Source
@@ -55,7 +54,9 @@ A questioning of meaning that has lasted forever?
 - [We're living in a post-open source world](https://www.infoworld.com/article/2608576/open-source-software-we-re-living-in-a-post-open-source-world.html), Matt Asay
 - [The open source licensing war is over](https://www.infoworld.com/article/3703768/the-open-source-licensing-war-is-over.html), Matt Asay
 - [I hate the term “open source”](https://medium.com/@nayafia/i-hate-the-term-open-source-a65fd481a95), Nadia Asparouhova
+- [Defining Open Source](https://timreview.ca/issue/2007/september), Technology Innovation Management Review (2007)
 - [Defining Open Source](https://the.webm.ink/defining-open-source), Simon Phipps
+- Coding Horror, [Defining Open Source](https://blog.codinghorror.com/defining-open-source/), Jeff Atwood
 - [Affirmation of the Open Source Definition](https://blog.opensource.org/osd_affirmation/), Open Source Initiative
 - [The SSPL is Not an Open Source License - Fauxpen](https://blog.opensource.org/the-sspl-is-not-an-open-source-license/), Open Source Initiative
 - [Pushing back against licensing and the permission culture](https://lu.is/blog/2013/01/27/taking-post-open-source-seriously-as-a-statement-about-copyright-law/), Villa Luis
