@@ -49,6 +49,7 @@ A questioning of meaning that has lasted forever?
 - [Open Source Confusion Cases](https://github.com/ssddanbrown/Open-Source-Confusion-Cases)
 - [Open Source and Open Source Software Are Not The Same Things](https://haacked.com/archive/2012/02/16/open-source-and-open-source-software-are-not-the-same.aspx/), Haacked
 - [What is open source ?](https://opensource.com/resources/what-open-source) From opensource.com resources
+- [Open software in the context of Open Science](https://github.com/opensciency/sprint-content/blob/main/open-software/lesson1-introduction.md), Opensciency, part of Transform to Open Science program from the NASA
 - [What Is The Spirit of Open Source?](https://haacked.com/archive/2012/02/22/spirit-of-open-source.aspx/), Haacked
 - [Open source, not just software anymore](https://ben.balter.com/2014/01/27/open-collaboration/)
 - [We're living in a post-open source world](https://www.infoworld.com/article/2608576/open-source-software-we-re-living-in-a-post-open-source-world.html), Matt Asay
