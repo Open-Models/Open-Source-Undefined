@@ -23,6 +23,8 @@ prepare references and bibliographies. Thanks for the sharing or production of m
 
 Check out the [resource library](resources/README.md) to retrieve and store external resources.
 
+[Educational workshops](workshops/README.md) can also be organised using available materials.
+
 ## Community
 
 The democratisation of open source makes it a subject of growing interest for various people and organisations, with collaboration

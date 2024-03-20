@@ -5,6 +5,7 @@ project:
     - README.md
     - resources/README.md
     - content/README.md
+    - workshops/README.md
 
 website:
   title: "Open Source Undefined"
