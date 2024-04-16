@@ -26,7 +26,7 @@
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
      inkscape:window-height="836"
@@ -38,7 +38,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
   <defs
      id="defs2">
     <rect
@@ -970,7 +971,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1365,7 +1366,7 @@
            id="path2199" />
         <polygon
            style="fill:#bdedea"
-           points="851.539,443.996 851.711,444.283 851.764,444.207 "
+           points="851.711,444.283 851.764,444.207 851.539,443.996 "
            id="polygon2201" />
         <path
            style="fill:#fefefe"
