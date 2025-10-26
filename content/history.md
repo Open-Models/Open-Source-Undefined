@@ -6,6 +6,8 @@ bibliography: history.bib
 
 [DRAFT DOCUMENT, WORK IN PROGRESS]
 
+![Free And Open Source Software Timeline](/images/open-source-timeline.png)
+
 ## 1940s-1960s | The origins of computers and software
 
 ::: {layout-ncol=2}
